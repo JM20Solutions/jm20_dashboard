@@ -1,7 +1,7 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "Booking Dashboard AI Agent Tools",
+    "title": "JM20 Booking Dashboard AI Agent Tools",
     "description": "Endpoints to manage client bookings via n8n workflows.",
     "version": "1.0.0"
   },
@@ -35,7 +35,7 @@
         },
         "responses": {
           "200": {
-            "description": "Booking request successfully sent to backend dashboard."
+            "description": "Booking request successfully processed."
           }
         }
       }
@@ -61,7 +61,7 @@
         },
         "responses": {
           "200": {
-            "description": "Cancellation request successfully sent to backend dashboard."
+            "description": "Cancellation request successfully processed."
           }
         }
       }
@@ -88,7 +88,7 @@
         },
         "responses": {
           "200": {
-            "description": "Reschedule request successfully sent to backend dashboard."
+            "description": "Reschedule request successfully processed."
           }
         }
       }
