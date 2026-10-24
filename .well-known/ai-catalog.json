@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "name": "Booking Dashboard Agent Tools",
+  "name": "JM20 Booking Dashboard Agent Tools",
   "description": "API tools allowing AI agents to book, cancel, and reschedule appointments directly through our dashboard backend.",
   "contact_email": "admin@yourdomain.com",
   "api_spec_url": "https://github.io",
